@@ -29,4 +29,7 @@ I wrote the word Tips on it and created a border with an alcohol marker, but thi
 #### TODO:  Add Bitcoin Educational content to teach people how to save and spend bitcoin as p2p electronic cash.
 ![Time Stamped Tip Jar](https://raw.githubusercontent.com/Marc26z/NostrTipJars/f6a4cdddcd1cdda2df788efabf71da888b0ed095/assets/TC_1770574626567%20(1).jpg)
 
+Nostr Article:
+https://habla.news/marc/de10e58dab10d87d1250554ab6b2a567
+
 
